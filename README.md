@@ -5,7 +5,7 @@ Its an open source project. Python Beginners are welcome to contriubte their pro
 For those who dont know how to contribute to a project:
 https://docs.github.com/en/get-started/quickstart/contributing-to-projects
 
-# OR
+# OR Git Cloning
 
 Important Notes: 
 1) Make sure U are inside in the Folder of the project
